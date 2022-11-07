@@ -1,0 +1,19 @@
+
+body {
+    background-color: #090f26;
+}
+
+* {
+    /* font-family: 'Noto Sans JP' !important; */
+    font-family: 'Times New Roman', sans-serif !important;
+    font-size: 12pt; 
+}
+
+.Header__input{
+    color:#FF6600;
+}
+.codeGame{
+    padding: 25px;
+    background-color: #0c1558;
+    color: rgb(248, 232, 9);
+  }
